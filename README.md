@@ -1,5 +1,4 @@
 ![Imgur](https://i.imgur.com/ypZqgQQ.png)
-# ARK Custom Theme Desktop Wallet Project Template
 
 ## Installation
 
