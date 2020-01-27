@@ -1,11 +1,10 @@
-![Imgur](https://imgur.com/a/JsQnurU)
-
-# Theme name - ARK Desktop Wallet plugin
-Description of your theme
+![Imgur](https://imgur.com/ypZqgQQ)
+# ARK Custom Theme Desktop Wallet Project Template
 
 ## Installation
 
- 1. Clone this repository or [download it](https://github.com/ark-ecosystem-desktop-plugins/theme-template/archive/master.zip) and unzip it into `~/.ark-desktop/plugins/`.
+ 1. Create a new repository based on this template
+ 2. Checkout or download the new repository into `~/.ark-desktop/plugins/`.
  2. Start the desktop wallet.
  3. Enable the plugin on the plugin section.
  4. Change theme in the Settings menu, on the sidebar.
