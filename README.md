@@ -1,4 +1,4 @@
-(**THIS IS A TEMPLATE**)
+![Imgur](https://imgur.com/a/JsQnurU)
 
 # Theme name - ARK Desktop Wallet plugin
 Description of your theme
